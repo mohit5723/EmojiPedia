@@ -1,3 +1,7 @@
+![image](https://github.com/mohit5723/EmojiPedia/assets/113592385/53a918ca-62d4-4c78-996c-9b878cba22d9)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
