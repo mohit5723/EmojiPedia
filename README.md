@@ -5,8 +5,7 @@ It's a valuable tool for emoji enthusiasts, communicators, and designers.
 
 You can add more number of emoji cards Dynamically by just adding required key-value pairs in "emojipedia.js"   
 
-
-
+# EmojiPedia
 
 ![image](https://github.com/mohit5723/EmojiPedia/assets/113592385/53a918ca-62d4-4c78-996c-9b878cba22d9)
 
