@@ -1,5 +1,11 @@
-![image](https://github.com/mohit5723/EmojiPedia/assets/113592385/53a918ca-62d4-4c78-996c-9b878cba22d9)
+EmojiPedia is a mini project to better understand the components, props and mapping data into components.
+Emojipedia serves as a reference guide for anyone looking to understand the context and usage of specific emojis, as well as how they may appear differently on various devices or social media platforms.
+You can search for emojis, explore their descriptions, and even find information about the history and evolution of emojis on the Emojipedia website. 
+It's a valuable tool for emoji enthusiasts, communicators, and designers.
 
+You can add more number of emoji cards Dynamically by just adding required key-value pairs in "emojipedia.js"   
+
+![image](https://github.com/mohit5723/EmojiPedia/assets/113592385/53a918ca-62d4-4c78-996c-9b878cba22d9)
 
 
 # Getting Started with Create React App
